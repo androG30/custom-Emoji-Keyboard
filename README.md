@@ -9,11 +9,9 @@ All the emojis are showing from local json file.
 
 Given feel like Whatsapp Messenger chat
 
-![screen1](https://user-images.githubusercontent.com/81309619/114452977-ae17fd80-9bf6-11eb-9256-59ac0c84061e.png)
-![screen2](https://user-images.githubusercontent.com/81309619/114452993-b3754800-9bf6-11eb-8062-24d1c02015c4.png)
-![screen3](https://user-images.githubusercontent.com/81309619/114453000-b40dde80-9bf6-11eb-90f2-6386d7c5f8a9.png)
-![screen4](https://user-images.githubusercontent.com/81309619/114453002-b53f0b80-9bf6-11eb-813f-e95fe1203d97.png)
-![screen5](https://user-images.githubusercontent.com/81309619/114453007-b708cf00-9bf6-11eb-9ee0-c3d8c916ec6d.png)
+![first](https://user-images.githubusercontent.com/81309619/115982490-30ba9880-a5b9-11eb-8332-a83bb217df39.png)
+![second](https://user-images.githubusercontent.com/81309619/115982492-331cf280-a5b9-11eb-9f39-1f580b3787eb.png)
+
 
 This project is a starting point for a Flutter application.
 
